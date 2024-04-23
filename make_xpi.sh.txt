@@ -1,0 +1,1 @@
+"c:\program files\7-zip\7z.exe" a -tZIP web-ext-artifacts/gusboxgusclient-1.0.1.xpi icons/* background.js manifest.json
